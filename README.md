@@ -5,7 +5,7 @@ Mobile Android Application
   - Kristijan Mitrov
   - Anja Kuzev
   - Makedonka Binova
-  - Karol
+  - Karol Rutkowski
 
 ## 📊 Idea & Plan
 Simple Android Application used to check out the weather and forecast for your curent or other loaction. Data that would like to display are: 
@@ -13,7 +13,8 @@ Simple Android Application used to check out the weather and forecast for your c
    - Humidity 💧
    - Wind Speed 💨
    - Pressure 📈
- Additionaly we would like to display an weather icon which depends of the current weather state. For example we would display a sun ☀️ if its sunny and a cloud ☁️ if its coloudy...
+   
+Additionaly we would like to display an weather icon which depends of the current weather state. For example we would display a sun ☀️ if its sunny and a cloud ☁️ if its coloudy...
  
  ## 🌤️ Features
  The user would be able to choose a location on a map (Open Street Map) or type in the name of the location in a search fild and find it that way. Additionally the user can checkout the forecast for the next 5 days.
